@@ -1,0 +1,13 @@
+At the end of your code the array will be in this order: 12313h, 12455h, 45967h
+
+fibonacci.asm
+-computes the following.
+	a.Compute fib(n) for n = 2, 3, …, 8 using an array, of the appropriatesize and type. If you so desire, you may declare a value for fib(0) andfib(1). 
+	However, all computation of the remaining elements of thearray must be done by your program, no use of immediate values isallowed. In other words, 
+	you must use the formula shown below(figure 1) to determine the values of the remainder of the requiredelements. Do not declare an array pre-filled 
+	with ALL the requiredelements. Do not use a loop.
+	
+	b.After your array is filled with required values, store fib(4) throughfib(7) in consecutive bytes of the ebx register starting from thelowest byte; that is, 
+	fib(4) is stored in the low byte (bl) of ebx, fib(5) isstored in the next byte (bh), fib(6) is stored in the next byte of ebxand fib(7) is stored in the highest byte.
+		i.EBX register will look like this 0D080503
+
