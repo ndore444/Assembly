@@ -1,0 +1,4 @@
+C:\Users\Nate\Desktop\Project32_VS2019\Debug\Project.exe
+C:\Users\Nate\Desktop\Project32_VS2019\Debug\Project.pdb
+C:\Users\Nate\source\repos\School\2020\Assembly\Project32_VS2019\Debug\Project.exe
+C:\Users\Nate\source\repos\School\2020\Assembly\Project32_VS2019\Debug\Project.pdb
